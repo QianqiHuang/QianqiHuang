@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **QianqiHuang/QianqiHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 My Name is Qianqi Huang, it is so nice to meet you in my Github Page.
@@ -13,4 +12,3 @@ My Name is Qianqi Huang, it is so nice to meet you in my Github Page.
 - :love_letter: My LinkedIn Page: https://www.linkedin.com/in/qianqi-huang-08b777221/
 
 - ⚡ Fun fact: ...
--->
