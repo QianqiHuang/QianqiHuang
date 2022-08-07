@@ -11,5 +11,5 @@ My Name is Qianqi Huang, it is so nice to meet you in my Github Page.
 
 - ⚡ Fun fact: 
   - <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previously Cat person but turn to dog person after I found I am allergic to cat hair recently. <br>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;German Shepherd is my favorite dog breed. I will definitely adopt one after I find my intern job!!! </p>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;German Shepherd :wolf: is my favorite dog breed. I will definitely adopt one after I find my intern job!!! </p>
 
