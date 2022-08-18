@@ -7,7 +7,7 @@ My Name is Qianqi Huang, it is so nice to meet you in my Github Page.
 - 🌱 I'm majoring in Computer Science
 - 🤔 I’m looking for 2023 Summer Internship. 
 - 📫 My LeetCode Page:(Solved over 250+ problems) https://leetcode.com/MaggieHQQ/ 
-- :love_letter: My LinkedIn Page: https://www.linkedin.com/in/qianqi-huang-08b777221/
+- :love_letter: My LinkedIn Page: https://www.linkedin.com/in/qianqihuang/
 
 - ⚡ Fun fact: 
   - <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Previously Cat person but turn to dog person after I found I am allergic to cat hair recently. <br>
